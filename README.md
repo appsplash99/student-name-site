@@ -15,10 +15,10 @@ No language indicated, so no syntax highlighting.
 But let's throw in a <b>tag</b>.
 ```
 
-feat - a new feature
-fix - a bug fix
-docs - changes in documentation
-style - everything related to styling
-refactor - code changes that neither fixes a bug or adds a feature
-test - everything related to testing
-chore - updating build tasks, package manager configs, etc
+1. feat - a new feature
+2. fix - a bug fix
+3. docs - changes in documentation
+4. style - everything related to styling
+5. refactor - code changes that neither fixes a bug or adds a feature
+6. test - everything related to testing
+7. chore - updating build tasks, package manager configs, etc
