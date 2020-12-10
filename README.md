@@ -26,7 +26,7 @@ But let's throw in a <b>tag</b>.
 <br />
 <p align="center">
   <a href="">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/240px-JavaScript-logo.png" alt="Logo" width="80" height="80">
+    <img src="`"question`" alt="Logo" width="80" height="80">
   </a>
 
   <h1 align="center">Do You Know Me?</h1>
