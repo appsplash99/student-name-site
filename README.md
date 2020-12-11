@@ -1,4 +1,4 @@
-
+<link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons" />
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -39,5 +39,5 @@ Popular [npm](https://www.npmjs.com) packages
 <p style="color: blue;" align="left">
     <a href="https://hashnode.com/@appsplash99" target="blank"><img align="center" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1592752137870/scHk9tTaA.png" alt="appsplash99  Blog" height="30" width="30" /></a>
     <a href="https://twitter.com/ApurvChimralwar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="appsplash99" height="30" width="30" /></a>
-    <a href="https://www.linkedin.com/in/apurv-chimralwar" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="appsplash99" height="30" width="30" /></a>        
+    <a href="https://www.linkedin.com/in/apurv-chimralwar" target="blank"><img align="center" src="@material-ui/icons/LinkedIn" alt="appsplash99" height="30" width="30" /></a>        
 </p>
